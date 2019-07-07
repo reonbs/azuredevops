@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{747BFE84-31FD-4EF7-B590-8EDC6FA6D788}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeAzureDevops/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="PracticeAzureDevops/Controllers/ValuesController.cs" Line="17" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PracticeAzureDevops" expanded="True">
+            <Node name="PracticeAzureDevops" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ValuesController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PracticeAzureDevops FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
